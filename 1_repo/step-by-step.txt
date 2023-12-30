@@ -1,4 +1,7 @@
 Passo a passo para criação de um novo repositório.
 1. Ao criar um novo repositório com git, primeiramente criamos ou selecionamos uma pasta através do terminal;
 2. Logamos no github, vamos em repositórios, criamos um repositório com o nome que havíamos especificado, descrevamos algo sobre o novo repositório, informamos se será público ou privado, decidimos se haverá um README ou não, se haverá licença ou não e avançamos. Após isso seguimos os passos informados na plataforma.
-3. 
+
+Caso seja necessário remover completamente um novo repo do computador, alguns comandos podem ser interessantes, como:
+1. git remove -v: mostra o 'origin' da sua máquina local.
+2. git remove rm <nome>: remove uma determinada 'origin'.
